@@ -11,4 +11,5 @@ comment on other people’s posts, search and filter images.
 
 ## Demo Video
 
-Coming Soon...
+<video src="https://user-images.githubusercontent.com/19533834/157426265-5573103a-eb5e-46e9-b0c0-5df12f32175c.mp4" autoplay loop />
+
