@@ -10,8 +10,5 @@ comment on other people’s posts, search and filter images.
 <img src="./images/Tailwind.png" width="50" />
 
 ## Demo Video
-<<<<<<< HEAD
-![](./images/video.mp4)
-=======
-<video src='./images/video.mp4' loop autoplay width="600"/>
->>>>>>> parent of a2dc929 (fix video in readme)
+
+Coming Soon...
