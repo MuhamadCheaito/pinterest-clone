@@ -10,4 +10,6 @@ comment on other people’s posts, search and filter images.
 <img src="./images/Tailwind.png" width="50" />
 
 ## Demo Video
-<video src='./images/video.mp4' loop autoplay width="600"/>
+<video loop autoplay width="600">
+    <source src='./images/video.mp4' type="video/mp4">
+</video>
